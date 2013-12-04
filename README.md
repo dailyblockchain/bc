@@ -25,3 +25,5 @@ I will be very happy to do it
 ### Found this helpful :-) Send some Satoshis here:
 
 ** 1EVH1zuB9U781fNp8YJsxhheRY5UFrB3Li ** 
+
+![donate](qr.png)
